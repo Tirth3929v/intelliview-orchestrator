@@ -41,3 +41,6 @@ frontend/
 1. Create `src/app/<route>/page.tsx`.
 2. Use the `useApi` hook for data fetching.
 3. Use components from `src/components/` for consistency.
+
+
+# Verified environment setup
