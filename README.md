@@ -108,3 +108,5 @@ After setup completes:
 - API documentation: http://localhost:8000/docs
 
 For Windows, use setup.ps1 if provided, or run setup.sh through WSL/Git Bash.
+
+# Verified project setup
